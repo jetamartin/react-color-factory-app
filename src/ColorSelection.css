@@ -1,0 +1,32 @@
+.ColorSelection {
+  text-align: center;
+}
+
+.ColorSelection-adder {
+  background-color: black;
+  color: white;
+  margin: 1,0 rem;
+  padding: 1rem;
+  
+}
+.ColorSelection-adder-link a {
+  color: white;
+  text-decoration: underline ;
+}
+.ColorSelection-adder-link a:link {
+  color: white;
+}
+
+
+.ColorSelection ul {
+  list-style-type: none;
+}
+
+.ColorSelection-colorList a:link {
+  color: red;
+}
+
+.ColorSelection-colorList {
+  padding-top: 2rem;
+
+}

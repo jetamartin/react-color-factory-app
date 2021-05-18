@@ -1,0 +1,11 @@
+.ColorDisplay {
+  height: 100vh;
+  color: white;
+  padding-top: 3rem;
+  font-size: 2rem;
+  text-align: center;
+}
+.ColorDisplay a {
+  color: white;
+  text-decoration: underline;  
+}
